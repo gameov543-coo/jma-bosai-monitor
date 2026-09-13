@@ -1,0 +1,8 @@
+*
+!bosai/
+!bosai/**
+bosai/**/__pycache__/
+!LICENSE
+!THIRD_PARTY_NOTICES.md
+!docs/
+!docs/data-sources.md

@@ -1,0 +1,6 @@
+[project]
+name = "jma-bosai-monitor"
+version = "1.0.0"
+description = "Persistent JMA XML disaster notifications for Slack and LINE"
+requires-python = ">=3.12"
+dependencies = []
