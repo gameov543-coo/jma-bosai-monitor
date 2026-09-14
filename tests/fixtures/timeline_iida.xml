@@ -1,0 +1,807 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:Report xmlns:ns0="http://xml.kishou.go.jp/jmaxml1/" xmlns:ns1="http://xml.kishou.go.jp/jmaxml1/informationBasis1/" xmlns:ns2="http://xml.kishou.go.jp/jmaxml1/body/meteorology1/" xmlns:ns3="http://xml.kishou.go.jp/jmaxml1/elementBasis1/">
+<ns0:Control>
+<ns0:Title>気象警報・注意報時系列情報（Ｒ０６）</ns0:Title>
+<ns0:DateTime>2026-09-11T07:55:00Z</ns0:DateTime>
+<ns0:Status>通常</ns0:Status>
+<ns0:EditorialOffice>長野地方気象台</ns0:EditorialOffice>
+<ns0:PublishingOffice>長野地方気象台</ns0:PublishingOffice>
+</ns0:Control>
+<ns1:Head>
+<ns1:Title>長野県警戒・注意事項時系列情報</ns1:Title>
+<ns1:ReportDateTime>2026-09-11T17:00:00+09:00</ns1:ReportDateTime>
+<ns1:TargetDateTime>2026-09-11T18:00:00+09:00</ns1:TargetDateTime>
+<ns1:EventID />
+<ns1:InfoType>発表</ns1:InfoType>
+<ns1:Serial />
+<ns1:InfoKind>気象警報・注意報時系列</ns1:InfoKind>
+<ns1:InfoKindVersion>1.5_0</ns1:InfoKindVersion>
+<ns1:Headline>
+<ns1:Text />
+</ns1:Headline>
+</ns1:Head>
+<ns2:Body>
+<ns2:MeteorologicalInfos type="量的予想時系列（市町村等）">
+<ns2:TimeSeriesInfo>
+<ns2:TimeDefines>
+<ns2:TimeDefine timeId="1">
+<ns2:DateTime>2026-09-11T18:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１１日夜のはじめ頃</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="2">
+<ns2:DateTime>2026-09-11T21:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１１日夜遅く</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="3">
+<ns2:DateTime>2026-09-12T00:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日未明</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="4">
+<ns2:DateTime>2026-09-12T03:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日明け方</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="5">
+<ns2:DateTime>2026-09-12T06:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日朝</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="6">
+<ns2:DateTime>2026-09-12T09:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日昼前</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="7">
+<ns2:DateTime>2026-09-12T12:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日昼過ぎ</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="8">
+<ns2:DateTime>2026-09-12T15:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日夕方</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="9">
+<ns2:DateTime>2026-09-12T18:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日夜のはじめ頃</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="10">
+<ns2:DateTime>2026-09-12T21:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT3H</ns2:Duration>
+<ns2:Name>１２日夜遅く</ns2:Name>
+</ns2:TimeDefine>
+</ns2:TimeDefines>
+<ns2:Item>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>大雨浸水危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="大雨浸水危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雨</ns2:Type>
+<ns2:PrecipitationPart>
+<ns2:Base>
+<ns3:Precipitation description="１０ミリ" refID="1" type="１時間最大雨量" unit="mm">10</ns3:Precipitation>
+<ns3:Precipitation description="１５ミリ" refID="2" type="１時間最大雨量" unit="mm">15</ns3:Precipitation>
+<ns3:Precipitation description="１５ミリ" refID="3" type="１時間最大雨量" unit="mm">15</ns3:Precipitation>
+<ns3:Precipitation description="０ミリ" refID="4" type="１時間最大雨量" unit="mm">0</ns3:Precipitation>
+<ns3:Precipitation description="０ミリ" refID="5" type="１時間最大雨量" unit="mm">0</ns3:Precipitation>
+<ns3:Precipitation description="０ミリ" refID="6" type="１時間最大雨量" unit="mm">0</ns3:Precipitation>
+<ns3:Precipitation description="１ミリ" refID="7" type="１時間最大雨量" unit="mm">1</ns3:Precipitation>
+<ns3:Precipitation description="１ミリ" refID="8" type="１時間最大雨量" unit="mm">1</ns3:Precipitation>
+<ns3:Precipitation description="１ミリ" refID="9" type="１時間最大雨量" unit="mm">1</ns3:Precipitation>
+<ns3:Precipitation description="０ミリ" refID="10" type="１時間最大雨量" unit="mm">0</ns3:Precipitation>
+</ns2:Base>
+</ns2:PrecipitationPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>土砂災害危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="土砂災害危険度">
+<ns2:Name>警戒レベル２</ns2:Name>
+<ns2:Code>21</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="土砂災害危険度">
+<ns2:Name>警戒レベル２</ns2:Name>
+<ns2:Code>21</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="土砂災害危険度">
+<ns2:Name>警戒レベル２</ns2:Name>
+<ns2:Code>21</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="土砂災害危険度">
+<ns2:Name>警戒レベル２</ns2:Name>
+<ns2:Code>21</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="土砂災害危険度">
+<ns2:Name>警戒レベル２未満</ns2:Name>
+<ns2:Code>11</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>風危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="風危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>風</ns2:Type>
+<ns2:WindDirectionPart>
+<ns2:Base>
+<ns3:WindDirection description="南西の風" refID="1" type="風向" unit="８方位漢字">南西</ns3:WindDirection>
+<ns3:WindDirection description="北の風" refID="2" type="風向" unit="８方位漢字">北</ns3:WindDirection>
+<ns3:WindDirection description="西の風" refID="3" type="風向" unit="８方位漢字">西</ns3:WindDirection>
+<ns3:WindDirection description="西の風" refID="4" type="風向" unit="８方位漢字">西</ns3:WindDirection>
+<ns3:WindDirection description="南の風" refID="5" type="風向" unit="８方位漢字">南</ns3:WindDirection>
+<ns3:WindDirection description="南の風" refID="6" type="風向" unit="８方位漢字">南</ns3:WindDirection>
+<ns3:WindDirection description="南の風" refID="7" type="風向" unit="８方位漢字">南</ns3:WindDirection>
+<ns3:WindDirection description="南の風" refID="8" type="風向" unit="８方位漢字">南</ns3:WindDirection>
+<ns3:WindDirection description="南西の風" refID="9" type="風向" unit="８方位漢字">南西</ns3:WindDirection>
+<ns3:WindDirection description="西の風" refID="10" type="風向" unit="８方位漢字">西</ns3:WindDirection>
+</ns2:Base>
+</ns2:WindDirectionPart>
+<ns2:WindSpeedPart>
+<ns2:Base>
+<ns3:WindSpeed description="５メートル" refID="1" type="最大風速" unit="m/s">5</ns3:WindSpeed>
+<ns3:WindSpeed description="４メートル" refID="2" type="最大風速" unit="m/s">4</ns3:WindSpeed>
+<ns3:WindSpeed description="２メートル" refID="3" type="最大風速" unit="m/s">2</ns3:WindSpeed>
+<ns3:WindSpeed description="２メートル" refID="4" type="最大風速" unit="m/s">2</ns3:WindSpeed>
+<ns3:WindSpeed description="２メートル" refID="5" type="最大風速" unit="m/s">2</ns3:WindSpeed>
+<ns3:WindSpeed description="３メートル" refID="6" type="最大風速" unit="m/s">3</ns3:WindSpeed>
+<ns3:WindSpeed description="４メートル" refID="7" type="最大風速" unit="m/s">4</ns3:WindSpeed>
+<ns3:WindSpeed description="５メートル" refID="8" type="最大風速" unit="m/s">5</ns3:WindSpeed>
+<ns3:WindSpeed description="４メートル" refID="9" type="最大風速" unit="m/s">4</ns3:WindSpeed>
+<ns3:WindSpeed description="２メートル" refID="10" type="最大風速" unit="m/s">2</ns3:WindSpeed>
+</ns2:Base>
+</ns2:WindSpeedPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雪危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雪</ns2:Type>
+<ns2:SnowfallDepthPart>
+<ns2:Base>
+<ns3:SnowfallDepth description="０センチ" refID="1" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="2" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="3" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="4" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="5" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="6" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="7" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="8" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="9" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="10" type="６時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+</ns2:Base>
+</ns2:SnowfallDepthPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雷危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="雷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>融雪危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="融雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>濃霧危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="濃霧危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>着氷危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="着氷危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>着雪危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="4" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="5" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="6" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="7" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="8" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="9" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="10" type="着雪危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Area>
+<ns2:Name>飯田市</ns2:Name>
+<ns2:Code>2020500</ns2:Code>
+</ns2:Area>
+</ns2:Item>
+</ns2:TimeSeriesInfo>
+<ns2:TimeSeriesInfo>
+<ns2:TimeDefines>
+<ns2:TimeDefine timeId="1">
+<ns2:DateTime>2026-09-11T18:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT24H</ns2:Duration>
+<ns2:Name>１２日１８時まで</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="2">
+<ns2:DateTime>2026-09-12T00:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT24H</ns2:Duration>
+<ns2:Name>１２日</ns2:Name>
+</ns2:TimeDefine>
+</ns2:TimeDefines>
+<ns2:Item>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雨</ns2:Type>
+<ns2:PrecipitationPart>
+<ns2:Base>
+<ns3:Precipitation description="４０ミリ" refID="1" type="２４時間最大雨量" unit="mm">40</ns3:Precipitation>
+<ns3:Precipitation description="３０ミリ" refID="2" type="２４時間最大雨量" unit="mm">30</ns3:Precipitation>
+</ns2:Base>
+</ns2:PrecipitationPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>雪</ns2:Type>
+<ns2:SnowfallDepthPart>
+<ns2:Base>
+<ns3:SnowfallDepth description="０センチ" refID="1" type="２４時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+<ns3:SnowfallDepth description="０センチ" refID="2" type="２４時間最大降雪量" unit="cm">0</ns3:SnowfallDepth>
+</ns2:Base>
+</ns2:SnowfallDepthPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Area>
+<ns2:Name>飯田市</ns2:Name>
+<ns2:Code>2020500</ns2:Code>
+</ns2:Area>
+</ns2:Item>
+</ns2:TimeSeriesInfo>
+<ns2:TimeSeriesInfo>
+<ns2:TimeDefines>
+<ns2:TimeDefine timeId="1">
+<ns2:DateTime>2026-09-11T18:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT6H</ns2:Duration>
+<ns2:Name>１１日</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="2">
+<ns2:DateTime>2026-09-12T00:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT24H</ns2:Duration>
+<ns2:Name>１２日</ns2:Name>
+</ns2:TimeDefine>
+<ns2:TimeDefine timeId="3">
+<ns2:DateTime>2026-09-13T00:00:00+09:00</ns2:DateTime>
+<ns2:Duration>PT24H</ns2:Duration>
+<ns2:Name>１３日</ns2:Name>
+</ns2:TimeDefine>
+</ns2:TimeDefines>
+<ns2:Item>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>乾燥危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="乾燥危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="乾燥危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="乾燥危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>乾燥</ns2:Type>
+<ns2:HumidityPart>
+<ns2:Base>
+<ns3:Humidity condition="値なし" refID="1" type="実効湿度" unit="%" />
+<ns3:Humidity condition="値なし" refID="2" type="実効湿度" unit="%" />
+<ns3:Humidity condition="値なし" refID="3" type="実効湿度" unit="%" />
+</ns2:Base>
+</ns2:HumidityPart>
+<ns2:HumidityPart>
+<ns2:Base>
+<ns3:Humidity condition="値なし" refID="1" type="最小湿度" unit="%" />
+<ns3:Humidity condition="値なし" refID="2" type="最小湿度" unit="%" />
+<ns3:Humidity condition="値なし" refID="3" type="最小湿度" unit="%" />
+</ns2:Base>
+</ns2:HumidityPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>なだれ危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="なだれ危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="なだれ危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="なだれ危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>低温危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="低温危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="低温危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="低温危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Kind>
+<ns2:Status>発表</ns2:Status>
+<ns2:DateTime type="発表時刻">2026-09-11T17:00:00+09:00</ns2:DateTime>
+<ns2:Property>
+<ns2:Type>霜危険度</ns2:Type>
+<ns2:SignificancyPart>
+<ns2:Base>
+<ns2:Significancy refID="1" type="霜危険度">
+<ns2:Name>値なし</ns2:Name>
+<ns2:Code>00</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="2" type="霜危険度">
+<ns2:Name>注意報級未満</ns2:Name>
+<ns2:Code>01</ns2:Code>
+</ns2:Significancy>
+<ns2:Significancy refID="3" type="霜危険度">
+<ns2:Name>値なし</ns2:Name>
+<ns2:Code>00</ns2:Code>
+</ns2:Significancy>
+</ns2:Base>
+</ns2:SignificancyPart>
+</ns2:Property>
+</ns2:Kind>
+<ns2:Area>
+<ns2:Name>飯田市</ns2:Name>
+<ns2:Code>2020500</ns2:Code>
+</ns2:Area>
+</ns2:Item>
+</ns2:TimeSeriesInfo>
+</ns2:MeteorologicalInfos>
+</ns2:Body>
+</ns0:Report>
